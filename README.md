@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhuongNew/Gemini_Generated_Image_ggttmnggttmnggtt.png" alt="TECH OTAKUS SAVE THE WORLD Banner" width="100%">
+<img src="https://raw.githubusercontent.com/KhuongNew/KhuongNew/main/Gemini_Generated_Image_ggttmnggttmnggtt.png" alt="TECH OTAKUS SAVE THE WORLD Banner" width="100%">
 </p>
 
 <h2 align="center" style="color:#C9A0DC;">⚡ Forging Worlds Through Imagination and Logic ⚡</h2>
