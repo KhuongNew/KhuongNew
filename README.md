@@ -12,6 +12,17 @@
 
 <h2 align="center">⚡ Forging Worlds Through Imagination and Logic ⚡</h2>
 
+<!-- Centered Quotes -->
+
+<p align="center">
+  <em>“Forging Worlds Through Imagination and Logic.”</em><br/>
+  <sub>— Lâm Thụy Khương</sub>
+</p>
+<p align="center">
+  <em>“TECH OTAKUS SAVE THE WORLD.”</em><br/>
+  <sub>— a motto popularized by <b>Liu Wei</b> (miHoYo co‑founder) that inspires my engineering journey.</sub>
+</p>
+
 <!-- Typing Intro -->
 
 <p align="center">
@@ -42,13 +53,16 @@
 
 ### 🌸 About Me
 
-* Hi, I'm **Lâm Thụy Khương** (N23DCCN169) — Year‑3 student at **PTIT HCM**.
-* I build with **Java / C++ / Python** and **React / TypeScript**; fascinated by **AI/LLM** and **fantasy‑inspired UI**.
-* **Career Objective:** *Frontend Intern @ FPT Japan* — motivated to craft elegant, accessible web UIs.
-* Currently learning **TypeScript**, **Docker**, **CI/CD**, **SQL optimization**, and **basic Japanese**.
-* I value **clean architecture**, **readable code**, and **great developer experience**.
+I’m **Lâm Thụy Khương** (N23DCCN169), a Year‑3 student at **PTIT HCM** who loves turning ideas into usable, delightful products. My craft sits at the intersection of **solid CS fundamentals** (OOP/DSA/DB) and **polished Frontend UX** (React/TypeScript). I care about readable code, pragmatic architecture, and small details that make interfaces feel alive.
 
-> *“Tech Otakus Save the World.”* — and we ship it with clean code 🛠️
+* I build with **Java / C++ / Python** and **React / TypeScript**; curious about **AI/LLM & GameTech UI**.
+* **Career Objective:** *Frontend Intern @ FPT Japan* — eager to design & implement accessible, performant web UIs.
+* Currently leveling up **TypeScript**, **Docker**, **CI/CD**, **SQL optimization**, and **basic Japanese (JP for dev life).**
+* Values: clean architecture · testing mindset · helpful docs · consistency and aesthetics.
+
+#### Why “Tech Otakus Save the World”?
+
+That line resonates with me as a reminder that **passion + technology** can create experiences that comfort, empower, and inspire people. The phrase is widely known from the founders of miHoYo — notably **Liu Wei** — and it motivates me to pursue engineering not just as a job, but as a craft with heart.
 
 ---
 
@@ -105,8 +119,8 @@
 
 ### 🏆 Achievements
 
-* Top Project Presentation – PTIT *(year)*
-* Database Design Contest – Finalist *(year)*
+* Top Project Presentation – PTIT **
+* Database Design Contest – Finalist **
 * AI Hackathon – PTIT Innovation Lab 2025
 * Volunteer Mentor – Intro to Programming Workshops
 
