@@ -81,7 +81,6 @@ That line resonates with me as a reminder that **passion + technology** can crea
 > A few projects I'm actively maintaining. Click a card to view the repo.
 
 <p align="left">
-  <a href="https://github.com/KhuongNew/D-cine_Cinema-Management"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=KhuongNew&repo=D-cine_Cinema-Management&theme=tokyonight&hide_border=true"/></a>
   <a href="https://github.com/KhuongNew/lab02-agile-scrum-N23DCCN169"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=KhuongNew&repo=lab02-agile-scrum-N23DCCN169&theme=tokyonight&hide_border=true"/></a>
   <a href="https://github.com/KhuongNew/Student-manager-C--Qt"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=KhuongNew&repo=Student-manager-C--Qt&theme=tokyonight&hide_border=true"/></a>
   <a href="https://github.com/KhuongNew/NMCNPM"><img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=KhuongNew&repo=NMCNPM&theme=tokyonight&hide_border=true"/></a>
