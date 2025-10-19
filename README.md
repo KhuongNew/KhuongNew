@@ -36,6 +36,12 @@
   <a href="https://github.com/KhuongNew?tab=repositories&sort=stargazers"><img src="https://img.shields.io/badge/Star%20my%20projects-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="star badge"/></a>
   <img src="https://img.shields.io/badge/Theme-Genshin%20%F0%9F%8C%8C-6A0DAD?style=for-the-badge" alt="theme"/>
 </p>
+<p align="center">
+  <a href="https://khuongnew.github.io/">
+    <img src="https://img.shields.io/badge/Live%20Site-khuongnew.github.io-9370DB?style=for-the-badge" alt="Live Site"/>
+  </a>
+</p>
+
 
 <!-- Quick Nav -->
 
